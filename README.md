@@ -1,30 +1,25 @@
 # 🎱 Magic 8 Ball
 
-## ✨ Description\
+## ✨ Description
 
 The **Magic 8 Ball** is a fun web application that simulates the classic toy, giving you random answers to your yes-or-no questions. Ask away and let the magic happen! 🌟
 
 ## 📚 Table of Contents
 
-- [Installation](#installation)\
-- [Usage](#usage)\
-- [Contributing](#contributing)\
-- [License](#license)\
-- [Contact](#contact)\
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-## 🚀 Installation\
+## 🚀 Installation
 
 To run the Magic 8 Ball locally, follow these steps:
 
-1. Clone the repository:\
-   ```bash\
-   git clone\
-   Navigate into the project directory:\
-   bash\
-   Copy code\
-   cd magic-8-ball\
-   Ensure you have a local server set up (like XAMPP or MAMP) and place the project in the server's root directory.\
-   Access the application in your web browser at http://localhost/magic-8-ball.\
+   ```bash
+   git clone:
+   Navigate into the project directory: https://github.com/amnabbouti/8_ball
+   Ensure you have a local server set up (like XAMPP or MAMP) and place the project in the server's root directory.
+   Access the application in your web browser at http://localhost/magic-8-ball.
    ```
 
 🎮 Usage\
