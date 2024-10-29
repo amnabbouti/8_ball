@@ -21,6 +21,7 @@ To run the Magic 8 Ball locally, follow these steps:
    Ensure you have a local server set up (like XAMPP or MAMP) and place the project in the server's root directory.
    Access the application in your web browser at http://localhost/magic-8-ball.
    ```
+or surf directly to the website http://asktheball.tiiny.io
 
 🎮 Usage\
 Open the application in your browser.\
